@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mickmcd01, real name William (Mick McDonnal)
+- 👋 Hi, I’m @mickmcd01, real name William (Mick) McDonnal
 - 👀 Most of my recent programming experience is in python.
 - 🌱 I might be interested in part-time or software contracting jobs.
 - 📫 You can contact me at mickmcd01@yahoo.com
